@@ -1,0 +1,10 @@
+beep
+break
+candy
+green
+hello
+markers
+phone
+queen
+quirk
+world
